@@ -6,6 +6,10 @@ This project was built as an educational data science project using Python, expl
 
 > **Important note:** this project is for learning purposes only. It should not be used as a real medical diagnostic tool.
 
+## AI transparency
+
+This project was developed with the help of **GPT-5.5**. The model was used as an assistant during design and implementation; the project decisions, verification, and responsibility for the result remain human.
+
 ---
 
 ## Project Overview
