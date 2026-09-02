@@ -366,5 +366,6 @@ However, because the dataset is small and does not directly measure pain intensi
 ## Author
 
 **Alban Gerschheimer**
+Projet réalisé avec l’aide de **GPT-5.5**.
 
 Student project in data science and machine learning.
