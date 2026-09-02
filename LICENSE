@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-The dataset in data/ is the "Lower Back Pain Symptoms Dataset" published on
-Kaggle (https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset)
-and remains subject to its own terms. The MIT license above covers the code,
-notebook and documentation in this repository.

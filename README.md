@@ -179,8 +179,8 @@ verification and the responsibility for the result remain human.
 
 ### License
 
-[MIT](LICENSE) © 2026 Alban Gerschheimer. The dataset remains subject to its own
-Kaggle terms.
+[MIT](LICENSE) © 2026 Alban Gerschheimer. The dataset keeps its own Kaggle
+terms — see [DATA_LICENSE.md](DATA_LICENSE.md).
 
 ---
 
@@ -348,5 +348,5 @@ vérifications et la responsabilité du résultat restent humaines.
 
 ### Licence
 
-[MIT](LICENSE) © 2026 Alban Gerschheimer. Le jeu de données reste soumis à ses
-propres conditions Kaggle.
+[MIT](LICENSE) © 2026 Alban Gerschheimer. Le jeu de données conserve ses propres
+conditions Kaggle — voir [DATA_LICENSE.md](DATA_LICENSE.md).
