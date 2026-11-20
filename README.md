@@ -350,3 +350,7 @@ vérifications et la responsabilité du résultat restent humaines.
 
 [MIT](LICENSE) © 2026 Alban Gerschheimer. Le jeu de données conserve ses propres
 conditions Kaggle — voir [DATA_LICENSE.md](DATA_LICENSE.md).
+
+---
+
+*Dernière mise à jour : novembre 2026.*
